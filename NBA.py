@@ -6,7 +6,7 @@ import os
 os.path.join(os.path.dirname(__file__))
  
 # Alternative: change working directory to Downloads folder (currently disabled)
- #os.chdir('/Users/vaishnav/Downloads')
+#os.chdir('/Users/vaishnav/Library/Mobile Documents/com~apple~CloudDocs/Python/')
  
 # Load NBA player statistics from a TSV (tab-separated values) file
 # The file is expected to contain columns: Player, Season, FGA, FGM, 3PA, 3PM, FTA, FTM, 
